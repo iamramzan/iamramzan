@@ -1,4 +1,4 @@
-👋 Hi, I’m @iamramzan
-👀 I’m interested in Machine Learning and Artificial Intelligence
-🌱 I’m currently working as a Machine Learning Engineer
-📫 How to reach me iamramzanai@gmail.com
+- 👋 Hi, I’m @iamramzan
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently working as a Machine Learning Engineer
+- 📫 How to reach me iamramzanai@gmail.com
