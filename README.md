@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I’m @iamramzan
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently working as a Computer Vision Engineer
+- 📫 How to reach me ramzanshaheenai@gmail.com
 
 <!--
 **iamramzan/iamramzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
