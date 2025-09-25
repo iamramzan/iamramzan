@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamramzan
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🔭 I’m currently working as a Machine Learning Engineer
+- 🌱 I’m currently a Computer Science Student at University of East London, UK
 - 📫 How to reach me ramzanshaheenai@gmail.com
 
 <!--
